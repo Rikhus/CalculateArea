@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZCjSRf5BM96CoHMeH9HDz0U6jNYALe9BalnuLM3vkbJ/Ba21HJKb+HLoh/iU5wmugyAEIsNwePyJ8e09TaBkMw==",
+  "success": true,
+  "projectFilePath": "D:\\code\\CSharp\\CalculateArea\\Figures\\Figures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khusa\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

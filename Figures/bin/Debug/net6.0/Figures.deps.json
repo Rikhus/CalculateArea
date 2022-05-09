@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Figures/1.0.0": {
+        "dependencies": {
+          "NUnit3TestAdapter": "4.0.0"
+        },
+        "runtime": {
+          "Figures.dll": {}
+        }
+      },
+      "NUnit3TestAdapter/4.0.0": {}
+    }
+  },
+  "libraries": {
+    "Figures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit3TestAdapter/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5gCkytgQWL93M5s9Rnl4CfSUhn95VsuMVLYjmZe8K7dNRF7kzrBMPsBTyLNCga5qLW7RM/o591J+HVrV1QMaVQ==",
+      "path": "nunit3testadapter/4.0.0",
+      "hashPath": "nunit3testadapter.4.0.0.nupkg.sha512"
+    }
+  }
+}

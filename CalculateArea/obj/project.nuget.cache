@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRpgCI3JbwsjtbiZ8cCfAqu4q2JK9SwnDbCO7OsuRHYxnX8iwTzQiOrbmuKDbnPtYPofKfrGIDCY7XkHFln2Fw==",
+  "success": true,
+  "projectFilePath": "D:\\code\\CSharp\\CalculateArea\\CalculateArea\\CalculateArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khusa\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

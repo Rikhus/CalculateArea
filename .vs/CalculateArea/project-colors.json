@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0d0f168-8d71-4f06-82cd-23e8c943f403": {
+      "ProjectGuid": "d0d0f168-8d71-4f06-82cd-23e8c943f403",
+      "DisplayName": "CalculateArea",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
