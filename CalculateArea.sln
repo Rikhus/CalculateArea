@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateArea", "CalculateA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{480599CD-EBC0-4817-B84D-FAC43A2404F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresTests", "UnitTests\FiguresTests.csproj", "{4988F03D-A657-42CD-8A7D-CCA40466F1FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiguresTests", "FiguresTests\FiguresTests.csproj", "{55E84D6D-020B-4938-B509-57E10887F6F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{480599CD-EBC0-4817-B84D-FAC43A2404F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480599CD-EBC0-4817-B84D-FAC43A2404F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480599CD-EBC0-4817-B84D-FAC43A2404F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4988F03D-A657-42CD-8A7D-CCA40466F1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4988F03D-A657-42CD-8A7D-CCA40466F1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4988F03D-A657-42CD-8A7D-CCA40466F1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4988F03D-A657-42CD-8A7D-CCA40466F1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E84D6D-020B-4938-B509-57E10887F6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E84D6D-020B-4938-B509-57E10887F6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E84D6D-020B-4938-B509-57E10887F6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E84D6D-020B-4938-B509-57E10887F6F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
